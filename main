@@ -1,4 +1,4 @@
-#you can raise the numbers range
+#you can change the numbers range
 
 for i in range (2,51):
     prime = True
